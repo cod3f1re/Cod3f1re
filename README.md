@@ -44,17 +44,6 @@
   
   
 <div>
-  <h3 align="left">Contáctame </h3>
-  <p align="left">
-
-  <a href="www.linkedin.com/in/abraham-rivera-rojas-86323b181" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" />
-      </a>
-  <a href="https://api.whatsapp.com/send?phone=5511942366432" target="blank">
-    <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="30" width="110" />
-  </a>
-</div>
-<div>
   <table align="right">
     <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
     <tr><td><a href="README.md"><img src="https://i.imgur.com/aTLvLiO.png" height="18.5" align="center"> Español</a></td></tr>
