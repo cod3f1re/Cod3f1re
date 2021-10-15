@@ -34,7 +34,7 @@
 <div>
   <h3 align="left">Contáctame </h3>
   <p align="left">
-  <a href="www.linkedin.com/in/abraham-rivera-rojas-86323b181" target="blank">
+  <a href="https://www.linkedin.com/in/abraham-rivera-rojas-86323b181" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" />
   </a>
   <a href="https://api.whatsapp.com/send?phone=+5215511940878" target="blank">
