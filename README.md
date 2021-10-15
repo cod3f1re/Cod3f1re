@@ -7,6 +7,11 @@
   <div>
     <img height="160em"   align="center" src="https://github-readme-stats.vercel.app/api?username=cod3f1re&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
     <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cod3f1re&&layout=compact&hide=shell&theme=highcontrast">
+  
+  <table align="right">
+    <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
+    <tr><td><a href="README.md"><img src="https://i.imgur.com/aTLvLiO.png" height="18.5" align="center"> Español</a></td></tr>
+  </table>
   </div>
   
 
@@ -41,14 +46,6 @@
     <img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="30" width="110" />
   </a>
 </div>
-  
-  
-<div>
-  <table align="right">
-    <tr><td><a href="README_us.md"><img src="https://i.imgur.com/Ja6zOUB.png" height="18.5" align="center"> English</a></td></tr>
-    <tr><td><a href="README.md"><img src="https://i.imgur.com/aTLvLiO.png" height="18.5" align="center"> Español</a></td></tr>
-  </table>
- </div>
   
   <div>   
     <h4 align="right"> Visitantes </h4>
